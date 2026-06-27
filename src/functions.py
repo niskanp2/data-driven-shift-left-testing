@@ -263,7 +263,6 @@ def estimate_report_timespent(
         return timespent_estimate
 
 
-
 def log_adjust_hours(hours, threshold=15, scale=5):
     if hours > threshold:
         return threshold + scale * np.log((hours - threshold) / scale + 1)
@@ -295,5 +294,3 @@ def get_path(issue_key: str, report_data):
             return mapping[start][end]
         else:
             return None
-
-

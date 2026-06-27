@@ -177,6 +177,7 @@ class RNNModel(nn.Module):
         # Squeeze the output to match the target shape (batch_size,)
         return output.squeeze(-1)
 
+
 # endregion
 
 
