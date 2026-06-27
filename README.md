@@ -1,10 +1,13 @@
 # Data-Driven Shift-Left Testing via *Should Have Been Found* Statistics Thesis Repository
 
-Repository for master's thesis reproducibility.
+## Preamble
+
+This repository provides the data and code used in a master's thesis for the sake of reproducibility.
+The data has been censored to comply with the collaborating company's security requirements.
 
 ## File Structure
 
-```
+```text
 .
 ├── data  # Files containing the raw data
 ├── gen   # Files generated with the jupyter notebooks
@@ -18,8 +21,9 @@ Repository for master's thesis reproducibility.
 ## Setup
 
 1. Edit uv indices in the `pyproject.toml` file such that the cuda version for pytorch is compatible with your system (you're on your own).
-2. Run `uv sync` in the terminal (and install uv if you haven't already) to set up the virtual environment.
-3. In the jupyter notebooks, select the `thesis` kernel before running them.
+2. Install uv if you haven't already.
+3. Run `uv sync` in the terminal to set up the virtual environment.
+4. In the jupyter notebooks, select the `thesis` kernel before running them.
 
 ## Running the Code
 
