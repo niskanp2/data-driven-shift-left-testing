@@ -1,0 +1,162 @@
+defect_path,task_timespent
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",32.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.5
+"['Integration_SW', 'Verification_IV']",7.5
+"['Implementation_SW', 'Integration_SW', 'Verification_IV_Reg']",52.5
+"['Implementation_IV', 'Integration_IV', 'Verification_IV_Sys']",22.5
+"['Implementation_SW', 'Integration', 'Verification_IV']",37.5
+"['Implementation_SW', 'Integration', 'Verification']",22.5
+"['Implementation_SW', 'Integration', 'Verification_IV']",45.0
+"['Specification_SAS', 'Implementation_SW', 'Integration', 'Verification']",22.5
+"['Implementation_SW', 'Integration', 'Verification_IV']",22.5
+"['Implementation_SW', 'Integration', 'Verification_IV']",30.0
+"['Implementation_IV', 'Integration_IV', 'Verification_IV_Sys']",37.5
+"['Implementation_SW', 'Integration', 'Verification']",37.5
+"['Implementation_SW', 'Integration_IV', 'Verification_IV_Sys']",30.0
+"['Implementation_SW', 'Integration_SW', 'Verification_IV_Reg']",15.0
+"['Implementation_SW', 'Integration', 'Verification_IV']",15.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",30.0
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",30.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",15.0
+"['Integration_SW', 'Verification_IV']",37.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",30.0
+"['Implementation_SW', 'Integration', 'Verification_IV']",30.0
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",30.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.5
+"['Implementation_SW', 'Integration', 'Verification']",45.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",75.0
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",4.285714285714286
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.5
+"['Implementation_IV', 'Integration_IV', 'Verification_IV_Sys']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",37.5
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",15.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation_SW', 'Integration', 'Verification_IV']",22.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",22.5
+"['Implementation_SW', 'Integration_SW']",15.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",37.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",18.75
+"['Implementation_SW', 'Integration', 'Verification_IV']",37.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",22.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",22.5
+"['Implementation_SW', 'Integration', 'Verification_IV']",60.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation_SW', 'Integration', 'Verification']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",52.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",37.5
+"['Implementation_SW', 'Integration', 'Verification_IV']",22.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",22.5
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",27.589285714285715
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",105.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",15.0
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",22.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",22.5
+"['Implementation_SW', 'Integration', 'Verification_IV']",7.5
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",24.375
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",22.5
+"['Implementation_SW', 'Integration', 'Verification_IV']",37.5
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration', 'Verification_IV_Sys']",10.884740259740258
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation_SW', 'Integration', 'Verification']",45.0
+"['Integration_IV', 'Verification_IV_Sys/Capa/Stab/Upgr']",22.5
+"['Implementation_SW', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",15.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",15.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",15.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",2.0454545454545454
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",7.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",37.5
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",26.25
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration_IV']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",37.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",52.5
+"['Implementation_SW', 'Integration', 'Verification']",37.5
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",7.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",25.420454545454543
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.5
+"['Implementation_SW', 'Integration', 'Verification_IV']",7.5
+"['Implementation', 'Integration', 'Verification_IV_Sys']",15.0
+"['Integration_SW', 'Verification_IV_Sys/Capa/Stab/Upgr']",45.0
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",7.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.045454545454545
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",37.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",37.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",24.285714285714285
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",12.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",25.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",15.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",15.0
+"['Implementation_SW', 'Integration', 'Verification']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",15.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.045454545454545
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",30.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation_SW', 'Integration', 'Verification']",30.0
+"['FieldValidation_Local', 'Customer']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.045454545454545
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",10.0
+"['Integration_SW', 'Verification_IV']",7.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",15.0
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",15.0
+"['Integration_SW', 'Verification_IV_Sys/Capa/Stab/Upgr']",15.0
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",15.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation_SW', 'Integration_IV', 'Verification_IV_Sys']",22.5
+"['Integration_SW', 'Verification_IV_Sys/Capa/Stab/Upgr']",37.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",25.0
+"['Implementation_SW', 'Integration', 'Verification_IV_Sys']",7.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",3.75
+"['Implementation_SW', 'Integration', 'Verification']",56.25
+"['Implementation_SW', 'Integration', 'Verification']",22.5
+"['Implementation_SW', 'Integration', 'Verification_IV']",3.75
+"['Integration_IV', 'Verification_IV_Sys']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Specification_SW', 'Implementation']",15.0
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",3.75
+"['Implementation_SW', 'Integration_SW']",7.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",60.0
+"['Implementation', 'Integration_IV']",22.5
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",15.0
+"['Implementation', 'Integration', 'Verification_IV_Sys/Reg']",15.0
+"['Implementation_SW', 'Integration']",30.0
+"['Implementation', 'Integration_IV']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",30.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.5
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",15.0
+"['Implementation_SW', 'Integration', 'Verification_IV']",15.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",15.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.5
+"['Implementation_SW', 'Integration', 'Verification']",22.5
+"['Implementation', 'Integration', 'Verification_IV_Sys']",22.5
+"['Implementation_SW', 'Integration', 'Verification']",30.0
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",22.5
+"['Verification_IV_Sys', 'FieldValidation', 'Customer']",37.5
+"['Integration_SW', 'Verification_IV_Sys', 'FieldValidation_Local', 'Customer']",22.5
+"['Integration', 'Verification_IV', 'FieldValidation', 'Customer']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",7.5
+"['Implementation', 'Integration_IV']",22.5
+"['Integration', 'Verification_IV_Sys', 'FieldValidation', 'Customer']",7.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",54.17045454545454
+"['Specification', 'Implementation_SW', 'Integration', 'Verification']",67.5
+"['Integration_SW', 'Verification_IV_Sys/Capa/Stab/Upgr']",7.5
+"['Specification_SW', 'Implementation_SW']",7.5
+"['Verification_IV_Sys', 'FieldValidation', 'Customer']",22.5
+"['Implementation', 'Integration_SW', 'Verification_IV_Sys/Reg']",3.75

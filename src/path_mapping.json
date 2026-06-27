@@ -1,0 +1,349 @@
+{
+    "AS review": {
+        "Implementation": {
+            "ID content insufficient/missing": [
+                "Specification_SW",
+                "Implementation_SW"
+            ]
+        },
+        "Verification": {
+            "Incorrect configuration": [
+                "Specification_SW",
+                "Implementation_SW",
+                "Integration_SW",
+                "Verification_IV"
+            ]
+        }
+    },
+    "CD testing (maintenance)": {
+        "Verification": {
+            "Code – interworking/interface with external component": [
+                "Implementation_SW",
+                "Integration_IV",
+                "Verification_IV_Reg"
+            ]
+        }
+    },
+    "Code review": {
+        "Implementation": {
+            "Code – component internal coding mistake": [
+                "Specification_SW",
+                "Implementation"
+            ]
+        },
+        "Integration": {
+            "Code – caused by previous fix": [
+                "Implementation",
+                "Integration_IV"
+            ],
+            "Code – component internal coding mistake": [
+                "Implementation",
+                "Integration_IV"
+            ],
+            "ID content insufficient/missing": [
+                "Implementation",
+                "Integration_SW"
+            ]
+        },
+        "Verification": {
+            "Code – caused by previous fix": [
+                "Implementation",
+                "Integration_SW",
+                "Verification_IV_Sys/Reg"
+            ],
+            "Code – component internal coding mistake": [
+                "Implementation",
+                "Integration_SW",
+                "Verification_IV_Sys/Reg"
+            ],
+            "Code – configuration": [
+                "Implementation_SW",
+                "Integration_SW",
+                "Verification_IV_Sys/Upgr/Reg"
+            ],
+            "Code – disinherited fix from other release": [
+                "Implementation_SW",
+                "Integration_SW",
+                "Verification_IV_Sys/Reg"
+            ],
+            "Code – interworking/interface with external component": [
+                "Implementation",
+                "Integration",
+                "Verification_IV_Sys"
+            ],
+            "Code – interworking/interface with internal component": [
+                "Implementation",
+                "Integration",
+                "Verification_IV_Sys/Reg"
+            ],
+            "Code – not according to the specification": [
+                "Specification",
+                "Implementation_SW",
+                "Integration",
+                "Verification"
+            ],
+            "ID content insufficient/missing": [
+                "Specification",
+                "Implementation_SW",
+                "Integration",
+                "Verification"
+            ],
+            "Requirement/SFS not clear and/or missing": [
+                "Specification_SAS",
+                "Implementation_SW",
+                "Integration",
+                "Verification"
+            ]
+        },
+        "Customer": {
+            "Code – component internal coding mistake": [
+                "Implementation_SW",
+                "Integration_SW",
+                "Verification_IV_Sys/Capa/Stab/Reg",
+                "FieldValidation_IV",
+                "Customer"
+            ],
+            "Code – interworking/interface with internal component": [
+                "Implementation_SW",
+                "Integration_SW",
+                "Verification_IV_Sys/Capa/Stab/Reg",
+                "FieldValidation_IV",
+                "Customer"
+            ]
+        }
+    },
+    "E2E validation": {
+        "Customer": {
+            "Code – component internal coding mistake": [
+                "FieldValidation_Local",
+                "Customer"
+            ]
+        }
+    },
+    "I&V Robustness / Stability testing": {
+        "Customer": {
+            "ID content insufficient/missing": [
+                "Verification_IV_Stab",
+                "FieldValidation_NULL",
+                "Customer"
+            ]
+        }
+    },
+    "I&V System testing": {
+        "Field validation": {
+            "Code – interworking/interface with internal component": [
+                "Verification_IV_Sys",
+                "FieldValidation_Local"
+            ],
+            "ID content insufficient/missing": [
+                "Verification_IV_Sys",
+                "FieldValidation_Local"
+            ]
+        },
+        "Customer": {
+            "Code – caused by previous fix": [
+                "Verification_IV_Reg",
+                "FieldValidation_IV",
+                "Customer"
+            ],
+            "Code – component internal coding mistake": [
+                "Verification_IV_Sys",
+                "FieldValidation",
+                "Customer"
+            ],
+            "Code – interworking/interface with internal component": [
+                "Verification_IV_Sys",
+                "FieldValidation_IV",
+                "Customer"
+            ],
+            "ID content insufficient/missing": [
+                "Verification_IV_Sys",
+                "FieldValidation",
+                "Customer"
+            ]
+        }
+    },
+    "I&V feature / integration testing": {
+        "Verification": {
+            "Code – caused by previous fix": [
+                "Integration_SW",
+                "Verification_IV_Sys/Capa/Stab/Upgr"
+            ],
+            "Code – component internal coding mistake": [
+                "Integration_SW",
+                "Verification_IV_Sys/Capa/Stab/Upgr"
+            ],
+            "Code – configuration": [
+                "Integration_IV",
+                "Verification_IV_Sys/Capa/Stab/Upgr"
+            ],
+            "Code – interworking/interface with external component": [
+                "Integration_IV",
+                "Verification_IV_Sys/Capa/Stab/Upgr"
+            ],
+            "Code – upgrade / incompatibility with previous release": [
+                "Integration_IV",
+                "Verification_IV_Upgr"
+            ],
+            "ID content insufficient/missing": [
+                "Integration_SW",
+                "Verification_IV_Sys/Capa/Stab/Upgr"
+            ],
+            "Requirement/SFS not clear and/or missing": [
+                "Integration_SW",
+                "Verification_IV_Sys/Capa/Stab/Upgr"
+            ]
+        },
+        "Customer": {
+            "Code – interworking/interface with external component": [
+                "Integration",
+                "Verification_IV_Sys",
+                "FieldValidation",
+                "Customer"
+            ],
+            "Code – not according to the specification": [
+                "Integration_SW",
+                "Verification_IV_Sys",
+                "FieldValidation_Local",
+                "Customer"
+            ],
+            "ID content insufficient/missing": [
+                "Integration",
+                "Verification_IV",
+                "FieldValidation",
+                "Customer"
+            ]
+        }
+    },
+    "ID review": {
+        "Integration": {
+            "ID content insufficient/missing": [
+                "Implementation_SW",
+                "Integration"
+            ]
+        },
+        "Verification": {
+            "Code – caused by previous fix": [
+                "Implementation_SW",
+                "Integration_SW",
+                "Verification_IV_Reg"
+            ],
+            "Code – component internal coding mistake": [
+                "Implementation_SW",
+                "Integration",
+                "Verification_IV"
+            ],
+            "Code – interworking/interface with external component": [
+                "Implementation_IV",
+                "Integration_IV",
+                "Verification_IV_Sys"
+            ],
+            "Code – interworking/interface with internal component": [
+                "Implementation_SW",
+                "Integration_IV",
+                "Verification_IV_Sys"
+            ],
+            "Code – not according to the specification": [
+                "Implementation_SW",
+                "Integration_SW",
+                "Verification_IV"
+            ],
+            "ID content insufficient/missing": [
+                "Implementation_SW",
+                "Integration",
+                "Verification"
+            ]
+        }
+    },
+    "SFS / SFIS review": {
+        "Customer": {
+            "Code – interworking/interface with internal component": [
+                "Specification",
+                "Implementation_SW",
+                "Integration_SW",
+                "Verification_IV",
+                "FieldValidation_Local",
+                "Customer"
+            ]
+        }
+    },
+    "SW I&V / Smoke testing": {
+        "Verification": {
+            "Code – component internal coding mistake": [
+                "Integration_SW",
+                "Verification_IV"
+            ],
+            "Code – interworking/interface with internal component": [
+                "Integration_IV",
+                "Verification_IV_Sys"
+            ],
+            "Code – not according to the specification": [
+                "Integration_SW",
+                "Verification_IV"
+            ],
+            "ID content insufficient/missing": [
+                "Integration_SW",
+                "Verification_IV"
+            ]
+        },
+        "Customer": {
+            "Code – interworking/interface with internal component": [
+                "Integration_IV",
+                "Verification_IV",
+                "FieldValidation",
+                "Customer"
+            ]
+        }
+    },
+    "SW Unit / Module testing": {
+        "Integration": {
+            "Code – component internal coding mistake": [
+                "Implementation_SW",
+                "Integration_SW"
+            ],
+            "Code – interworking/interface with external component": [
+                "Implementation_SW",
+                "Integration_SW"
+            ],
+            "ID content insufficient/missing": [
+                "Implementation_SW",
+                "Integration_SW"
+            ]
+        },
+        "Verification": {
+            "Code – caused by previous fix": [
+                "Implementation_SW",
+                "Integration_SW",
+                "Verification_IV_Reg"
+            ],
+            "Code – component internal coding mistake": [
+                "Implementation_SW",
+                "Integration",
+                "Verification_IV"
+            ],
+            "Code – interworking/interface with external component": [
+                "Implementation_SW",
+                "Integration",
+                "Verification_IV_Sys"
+            ],
+            "Code – interworking/interface with internal component": [
+                "Implementation_SW",
+                "Integration",
+                "Verification_IV"
+            ],
+            "ID content insufficient/missing": [
+                "Implementation_SW",
+                "Integration_SW",
+                "Verification_IV_Sys/Capa/Stab/Upgr"
+            ]
+        },
+        "Field validation": {
+            "Code – component internal coding mistake": [
+                "Implementation_SW",
+                "Integration_SW",
+                "Verification_IV",
+                "FieldValidation_IV"
+            ]
+        }
+    }
+}
