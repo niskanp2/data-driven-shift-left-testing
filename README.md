@@ -17,7 +17,7 @@ Repository for master's thesis reproducibility.
 
 ## Setup
 
-1. Edit uv indices in the `pyproject.toml` file such that the cuda version for pytorch is compatible for your system (you're on your own).
+1. Edit uv indices in the `pyproject.toml` file such that the cuda version for pytorch is compatible with your system (you're on your own).
 2. Run `uv sync` in the terminal (and install uv if you haven't already) to set up the virtual environment.
 3. In the jupyter notebooks, select the `thesis` kernel before running them.
 
@@ -31,4 +31,4 @@ To reproduce the results in the thesis, run the following files in sequence:
 - `04_simulation.ipynb`
 
 > [!NOTE]
-> The notebooks can be run out of sequence. The generated files used in the thesis are in the .gen/ directory. Running earlier notebooks will overwrite these resources.
+> The notebooks can be run out of sequence. The generated files used in the thesis are in the ./gen directory. Running earlier notebooks will overwrite these resources.
