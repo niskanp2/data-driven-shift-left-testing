@@ -32,7 +32,11 @@ To reproduce the results in the thesis, run the following files in sequence:
 - `01_preprocessing.ipynb`
 - `02_generate_embedding.ipynb`
 - `03_rol2vec_em.ipynb`
+  - This takes over half an hour per architecture on my hardware.
+  - Change the `MODEL_TYPE` variable to switch which architecture is being trained.
 - `04_simulation.ipynb`
+  - Change the `CLIPPING` variable to switch which path set is being evaluated.
+  - Change the `model_version` variable to switch which model architecture is being evaluated.
 
 > [!NOTE]
 > The notebooks can be run out of sequence. The generated files used in the thesis are in the ./gen directory. Running earlier notebooks will overwrite these resources.
